@@ -46,7 +46,7 @@ int precision, int size)
 	{
 		str = "(null)";
 		if (precision >= 6)
-			srt = "      ";
+			str = "      ";
 	}
 	while (str[len] != '\0')
 		len++;
