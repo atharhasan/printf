@@ -4,3 +4,4 @@
 
 May Allah fill our path with goodness
 
+done n the same day exactly at 12:35 after too many screaming and cursing
