@@ -71,7 +71,7 @@ int precision, int size)
 	while (str[i] != '\0')
 	{
 		if (is_printable(str[i]))
-			buffer[i + offset] = srt[i];
+			buffer[i + offset] = str[i];
 		offset += append_hexa_code(str[i], buffer, i + offset);
 		i++;
 	}
